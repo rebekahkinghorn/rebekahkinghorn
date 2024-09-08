@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am majoring in Information Systems with a minor in Global and Community Impact.  
+
 <!--
 **rebekahkinghorn/rebekahkinghorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
